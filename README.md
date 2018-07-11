@@ -30,4 +30,4 @@
    - ``` python anime_downloader.py ```
   
   
-## This script is not perfect, sadly. So if anyone finds any issues please let me know. Thank You.
+##### This script is not perfect, sadly. So if anyone finds any issues please let me know. Thank You.
